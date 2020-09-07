@@ -6,6 +6,7 @@ import static javax.swing.JOptionPane.*;
 /*
  * Skriver ut karakter i bokstavform basert på input i form av tall fra bruker
  * 
+ * Slik den står nå kjøres den 10 ganger 
  */
 public class Karaktere {
 

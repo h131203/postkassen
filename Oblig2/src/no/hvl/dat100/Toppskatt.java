@@ -14,9 +14,6 @@ public class Toppskatt {
 Trinn 2	Inntekten mellom 254 500 – 639 750 kroner	4,2 %  trinnskatt
 Trinn 3	Inntekten mellom 639 750 – 999 550 kroner	13,2 % trinnskatt *
 Trinn 4	Inntekten over  999 550 kroner	16,2 % trinnskatt
-
-int radiusAvrundet = (int)(utregnetRadius+0.5); 
-
 */
 		
 		String bruttolonn = showInputDialog("Bruttoinntekt (heltall): ");
